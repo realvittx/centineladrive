@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "nombre": "Zona Seguridad Providencia 1",
+    "categoria": "Seguridad",
+    "lat": -33.449,
+    "lng": -70.618999,
+    "nivel": 3,
+    "peso": 1.31,
+    "radio": 232
+  },
+  {
+    "id": 2,
+    "nombre": "Zona Seguridad San Miguel 2",
+    "categoria": "Seguridad",
+    "lat": -33.506522,
+    "lng": -70.653123,
+    "nivel": 3,
+    "peso": 1.27,
+    "radio": 299
+  },
+  {
+    "id": 3,
+    "nombre": "Zona Seguridad Macul 3",
+    "categoria": "Seguridad",
+    "lat": -33.485919,
+    "lng": -70.59755,
+    "nivel": 5,
+    "peso": 1.72,
+    "radio": 394
+  },
+  {
+    "id": 4,
+    "nombre": "Zona Seguridad San Bernardo 4",
+    "categoria": "Seguridad",
+    "lat": -33.592032,
+    "lng": -70.708872,
+    "nivel": 3,
+    "peso": 1.81,
+    "radio": 261
+  },
+  {
+    "id": 5,
+    "nombre": "Zona Seguridad Lo Prado 5",
+    "categoria": "Seguridad",
+    "lat": -33.44639,
+    "lng": -70.733781,
+    "nivel": 4,
+    "peso": 1.28,
+    "radio": 374
+  },
+  {
+    "id": 6,
+    "nombre": "Zona Seguridad Providencia 6",
+    "categoria": "Seguridad",
+    "lat": -33.435641,
+    "lng": -70.616242,
+    "nivel": 4,
+    "peso": 1.85,
+    "radio": 415
+  },
+  {
+    "id": 7,
+    "nombre": "Zona Seguridad San Miguel 7",
+    "categoria": "Seguridad",
+    "lat": -33.505007,
+    "lng": -70.633108,
+    "nivel": 3,
+    "peso": 1.64,
+    "radio": 365
+  },
+  {
+    "id": 8,
+    "nombre": "Zona Seguridad La Pintana 8",
+    "categoria": "Seguridad",
+    "lat": -33.592308,
+    "lng": -70.647218,
+    "nivel": 5,
+    "peso": 1.38,
+    "radio": 328
+  },
+  {
+    "id": 9,
+    "nombre": "Zona Seguridad Maipú 9",
+    "categoria": "Seguridad",
+    "lat": -33.495787,
+    "lng": -70.745341,
+    "nivel": 4,
+    "peso": 1.42,
+    "radio": 366
+  },
+  {
+    "id": 10,
+    "nombre": "Zona Seguridad Puente Alto 10",
+    "categoria": "Seguridad",
+    "lat": -33.615193,
+    "lng": -70.59162,
+    "nivel": 4,
+    "peso": 1.76,
+    "radio": 216
+  },
+  {
+    "id": 11,
+    "nombre": "Zona Seguridad Huechuraba 11",
+    "categoria": "Seguridad",
+    "lat": -33.354601,
+    "lng": -70.668634,
+    "nivel": 3,
+    "peso": 1.33,
+    "radio": 374
+  },
+  {
+    "id": 12,
+    "nombre": "Zona Seguridad Quilicura 12",
+    "categoria": "Seguridad",
+    "lat": -33.340419,
+    "lng": -70.7244,
+    "nivel": 5,
+    "peso": 1.38,
+    "radio": 346
+  },
+  {
+    "id": 13,
+    "nombre": "Zona Seguridad Estación Central 13",
+    "categoria": "Seguridad",
+    "lat": -33.470838,
+    "lng": -70.708716,
+    "nivel": 4,
+    "peso": 1.52,
+    "radio": 213
+  },
+  {
+    "id": 14,
+    "nombre": "Zona Seguridad La Florida 14",
+    "categoria": "Seguridad",
+    "lat": -33.523475,
+    "lng": -70.577313,
+    "nivel": 5,
+    "peso": 1.45,
+    "radio": 435
+  },
+  {
+    "id": 15,
+    "nombre": "Zona Seguridad Cerro Navia 15",
+    "categoria": "Seguridad",
+    "lat": -33.404613,
+    "lng": -70.734286,
+    "nivel": 3,
+    "peso": 1.41,
+    "radio": 306
+  },
+  {
+    "id": 16,
+    "nombre": "Zona Seguridad San Miguel 16",
+    "categoria": "Seguridad",
+    "lat": -33.488441,
+    "lng": -70.640119,
+    "nivel": 4,
+    "peso": 1.92,
+    "radio": 384
+  },
+  {
+    "id": 17,
+    "nombre": "Zona Seguridad Independencia 17",
+    "categoria": "Seguridad",
+    "lat": -33.421227,
+    "lng": -70.630098,
+    "nivel": 5,
+    "peso": 1.59,
+    "radio": 204
+  },
+  {
+    "id": 18,
+    "nombre": "Zona Seguridad Providencia 18",
+    "categoria": "Seguridad",
+    "lat": -33.443886,
+    "lng": -70.623601,
+    "nivel": 5,
+    "peso": 1.54,
+    "radio": 212
+  },
+  {
+    "id": 19,
+    "nombre": "Zona Seguridad Cerro Navia 19",
+    "categoria": "Seguridad",
+    "lat": -33.424735,
+    "lng": -70.720155,
+    "nivel": 5,
+    "peso": 1.4,
+    "radio": 185
+  },
+  {
+    "id": 20,
+    "nombre": "Zona Seguridad Providencia 20",
+    "categoria": "Seguridad",
+    "lat": -33.422732,
+    "lng": -70.608521,
+    "nivel": 4,
+    "peso": 1.81,
+    "radio": 354
+  },
+  {
+    "id": 21,
+    "nombre": "Zona Seguridad Providencia 21",
+    "categoria": "Seguridad",
+    "lat": -33.43826,
+    "lng": -70.623674,
+    "nivel": 3,
+    "peso": 1.96,
+    "radio": 314
+  },
+  {
+    "id": 22,
+    "nombre": "Zona Seguridad Macul 22",
+    "categoria": "Seguridad",
+    "lat": -33.479522,
+    "lng": -70.599693,
+    "nivel": 3,
+    "peso": 1.9,
+    "radio": 332
+  },
+  {
+    "id": 23,
+    "nombre": "Zona Seguridad Macul 23",
+    "categoria": "Seguridad",
+    "lat": -33.485641,
+    "lng": -70.613886,
+    "nivel": 3,
+    "peso": 1.63,
+    "radio": 180
+  },
+  {
+    "id": 24,
+    "nombre": "Zona Seguridad Huechuraba 24",
+    "categoria": "Seguridad",
+    "lat": -33.367034,
+    "lng": -70.689221,
+    "nivel": 4,
+    "peso": 1.9,
+    "radio": 337
+  },
+  {
+    "id": 25,
+    "nombre": "Zona Seguridad San Bernardo 25",
+    "categoria": "Seguridad",
+    "lat": -33.607683,
+    "lng": -70.68488,
+    "nivel": 3,
+    "peso": 1.27,
+    "radio": 428
+  },
+  {
+    "id": 26,
+    "nombre": "Zona Seguridad Maipú 26",
+    "categoria": "Seguridad",
+    "lat": -33.490881,
+    "lng": -70.758692,
+    "nivel": 3,
+    "peso": 1.3,
+    "radio": 423
+  },
+  {
+    "id": 27,
+    "nombre": "Zona Seguridad San Miguel 27",
+    "categoria": "Seguridad",
+    "lat": -33.503395,
+    "lng": -70.648893,
+    "nivel": 5,
+    "peso": 1.54,
+    "radio": 288
+  },
+  {
+    "id": 28,
+    "nombre": "Zona Seguridad San Miguel 28",
+    "categoria": "Seguridad",
+    "lat": -33.479789,
+    "lng": -70.642405,
+    "nivel": 5,
+    "peso": 1.45,
+    "radio": 371
+  },
+  {
+    "id": 29,
+    "nombre": "Zona Seguridad Pudahuel 29",
+    "categoria": "Seguridad",
+    "lat": -33.414015,
+    "lng": -70.791941,
+    "nivel": 3,
+    "peso": 1.38,
+    "radio": 353
+  },
+  {
+    "id": 30,
+    "nombre": "Zona Seguridad Santiago 30",
+    "categoria": "Seguridad",
+    "lat": -33.446468,
+    "lng": -70.670795,
+    "nivel": 3,
+    "peso": 1.21,
+    "radio": 210
+  },
+  {
+    "id": 31,
+    "nombre": "Zona Seguridad San Bernardo 31",
+    "categoria": "Seguridad",
+    "lat": -33.607304,
+    "lng": -70.718743,
+    "nivel": 4,
+    "peso": 1.26,
+    "radio": 301
+  },
+  {
+    "id": 32,
+    "nombre": "Zona Seguridad Quilicura 32",
+    "categoria": "Seguridad",
+    "lat": -33.353241,
+    "lng": -70.741431,
+    "nivel": 3,
+    "peso": 1.78,
+    "radio": 422
+  },
+  {
+    "id": 33,
+    "nombre": "Zona Seguridad San Bernardo 33",
+    "categoria": "Seguridad",
+    "lat": -33.578615,
+    "lng": -70.6877,
+    "nivel": 3,
+    "peso": 1.28,
+    "radio": 400
+  },
+  {
+    "id": 34,
+    "nombre": "Zona Seguridad Independencia 34",
+    "categoria": "Seguridad",
+    "lat": -33.413057,
+    "lng": -70.651319,
+    "nivel": 5,
+    "peso": 1.24,
+    "radio": 230
+  },
+  {
+    "id": 35,
+    "nombre": "Zona Seguridad Estación Central 35",
+    "categoria": "Seguridad",
+    "lat": -33.463895,
+    "lng": -70.696428,
+    "nivel": 3,
+    "peso": 1.4,
+    "radio": 277
+  },
+  {
+    "id": 36,
+    "nombre": "Zona Seguridad San Miguel 36",
+    "categoria": "Seguridad",
+    "lat": -33.492055,
+    "lng": -70.653125,
+    "nivel": 4,
+    "peso": 1.57,
+    "radio": 218
+  },
+  {
+    "id": 37,
+    "nombre": "Zona Seguridad Pudahuel 37",
+    "categoria": "Seguridad",
+    "lat": -33.417679,
+    "lng": -70.775761,
+    "nivel": 3,
+    "peso": 1.24,
+    "radio": 187
+  },
+  {
+    "id": 38,
+    "nombre": "Zona Seguridad Maipú 38",
+    "categoria": "Seguridad",
+    "lat": -33.492945,
+    "lng": -70.746052,
+    "nivel": 3,
+    "peso": 1.53,
+    "radio": 426
+  },
+  {
+    "id": 39,
+    "nombre": "Zona Seguridad La Florida 39",
+    "categoria": "Seguridad",
+    "lat": -33.525414,
+    "lng": -70.563902,
+    "nivel": 3,
+    "peso": 1.5,
+    "radio": 379
+  },
+  {
+    "id": 40,
+    "nombre": "Zona Seguridad Quilicura 40",
+    "categoria": "Seguridad",
+    "lat": -33.342939,
+    "lng": -70.718595,
+    "nivel": 4,
+    "peso": 1.54,
+    "radio": 429
+  },
+  {
+    "id": 41,
+    "nombre": "Zona Seguridad Las Condes 41",
+    "categoria": "Seguridad",
+    "lat": -33.422404,
+    "lng": -70.571292,
+    "nivel": 3,
+    "peso": 1.66,
+    "radio": 211
+  },
+  {
+    "id": 42,
+    "nombre": "Zona Seguridad Recoleta 42",
+    "categoria": "Seguridad",
+    "lat": -33.417713,
+    "lng": -70.646633,
+    "nivel": 5,
+    "peso": 1.94,
+    "radio": 260
+  },
+  {
+    "id": 43,
+    "nombre": "Zona Seguridad Estación Central 43",
+    "categoria": "Seguridad",
+    "lat": -33.441569,
+    "lng": -70.706796,
+    "nivel": 3,
+    "peso": 1.25,
+    "radio": 214
+  },
+  {
+    "id": 44,
+    "nombre": "Zona Seguridad San Bernardo 44",
+    "categoria": "Seguridad",
+    "lat": -33.593849,
+    "lng": -70.682336,
+    "nivel": 5,
+    "peso": 1.4,
+    "radio": 200
+  },
+  {
+    "id": 45,
+    "nombre": "Zona Seguridad Huechuraba 45",
+    "categoria": "Seguridad",
+    "lat": -33.376721,
+    "lng": -70.663705,
+    "nivel": 5,
+    "peso": 1.62,
+    "radio": 313
+  },
+  {
+    "id": 46,
+    "nombre": "Zona Seguridad La Florida 46",
+    "categoria": "Seguridad",
+    "lat": -33.533211,
+    "lng": -70.587433,
+    "nivel": 4,
+    "peso": 1.52,
+    "radio": 333
+  },
+  {
+    "id": 47,
+    "nombre": "Zona Seguridad Pudahuel 47",
+    "categoria": "Seguridad",
+    "lat": -33.437353,
+    "lng": -70.779925,
+    "nivel": 3,
+    "peso": 1.21,
+    "radio": 231
+  },
+  {
+    "id": 48,
+    "nombre": "Zona Seguridad Maipú 48",
+    "categoria": "Seguridad",
+    "lat": -33.508495,
+    "lng": -70.759765,
+    "nivel": 3,
+    "peso": 1.95,
+    "radio": 215
+  },
+  {
+    "id": 49,
+    "nombre": "Zona Seguridad San Bernardo 49",
+    "categoria": "Seguridad",
+    "lat": -33.595219,
+    "lng": -70.71369,
+    "nivel": 5,
+    "peso": 1.76,
+    "radio": 450
+  },
+  {
+    "id": 50,
+    "nombre": "Zona Seguridad Santiago 50",
+    "categoria": "Seguridad",
+    "lat": -33.443285,
+    "lng": -70.657816,
+    "nivel": 5,
+    "peso": 1.28,
+    "radio": 248
+  },
+  {
+    "id": 51,
+    "nombre": "Zona Seguridad Quilicura 51",
+    "categoria": "Seguridad",
+    "lat": -33.375383,
+    "lng": -70.745719,
+    "nivel": 5,
+    "peso": 1.32,
+    "radio": 324
+  },
+  {
+    "id": 52,
+    "nombre": "Zona Seguridad Huechuraba 52",
+    "categoria": "Seguridad",
+    "lat": -33.371575,
+    "lng": -70.676285,
+    "nivel": 5,
+    "peso": 1.71,
+    "radio": 315
+  },
+  {
+    "id": 53,
+    "nombre": "Zona Seguridad Macul 53",
+    "categoria": "Seguridad",
+    "lat": -33.490459,
+    "lng": -70.583787,
+    "nivel": 3,
+    "peso": 1.27,
+    "radio": 396
+  },
+  {
+    "id": 54,
+    "nombre": "Zona Seguridad Quilicura 54",
+    "categoria": "Seguridad",
+    "lat": -33.378237,
+    "lng": -70.736658,
+    "nivel": 3,
+    "peso": 1.71,
+    "radio": 314
+  },
+  {
+    "id": 55,
+    "nombre": "Zona Seguridad Puente Alto 55",
+    "categoria": "Seguridad",
+    "lat": -33.600351,
+    "lng": -70.577933,
+    "nivel": 4,
+    "peso": 1.65,
+    "radio": 237
+  },
+  {
+    "id": 56,
+    "nombre": "Zona Seguridad Maipú 56",
+    "categoria": "Seguridad",
+    "lat": -33.492198,
+    "lng": -70.752359,
+    "nivel": 3,
+    "peso": 1.64,
+    "radio": 369
+  },
+  {
+    "id": 57,
+    "nombre": "Zona Seguridad La Pintana 57",
+    "categoria": "Seguridad",
+    "lat": -33.577899,
+    "lng": -70.632809,
+    "nivel": 3,
+    "peso": 1.45,
+    "radio": 200
+  },
+  {
+    "id": 58,
+    "nombre": "Zona Seguridad Independencia 58",
+    "categoria": "Seguridad",
+    "lat": -33.421597,
+    "lng": -70.660019,
+    "nivel": 3,
+    "peso": 1.48,
+    "radio": 388
+  },
+  {
+    "id": 59,
+    "nombre": "Zona Seguridad Huechuraba 59",
+    "categoria": "Seguridad",
+    "lat": -33.350021,
+    "lng": -70.652969,
+    "nivel": 3,
+    "peso": 1.89,
+    "radio": 270
+  },
+  {
+    "id": 60,
+    "nombre": "Zona Seguridad Lo Prado 60",
+    "categoria": "Seguridad",
+    "lat": -33.459009,
+    "lng": -70.710537,
+    "nivel": 4,
+    "peso": 1.83,
+    "radio": 390
+  },
+  {
+    "id": 61,
+    "nombre": "Zona Seguridad San Bernardo 61",
+    "categoria": "Seguridad",
+    "lat": -33.599328,
+    "lng": -70.688505,
+    "nivel": 3,
+    "peso": 1.51,
+    "radio": 199
+  },
+  {
+    "id": 62,
+    "nombre": "Zona Seguridad Ñuñoa 62",
+    "categoria": "Seguridad",
+    "lat": -33.471103,
+    "lng": -70.587337,
+    "nivel": 4,
+    "peso": 1.48,
+    "radio": 296
+  },
+  {
+    "id": 63,
+    "nombre": "Zona Seguridad San Bernardo 63",
+    "categoria": "Seguridad",
+    "lat": -33.609053,
+    "lng": -70.712275,
+    "nivel": 4,
+    "peso": 1.42,
+    "radio": 215
+  },
+  {
+    "id": 64,
+    "nombre": "Zona Seguridad Quilicura 64",
+    "categoria": "Seguridad",
+    "lat": -33.365954,
+    "lng": -70.729624,
+    "nivel": 5,
+    "peso": 1.98,
+    "radio": 349
+  },
+  {
+    "id": 65,
+    "nombre": "Zona Seguridad Santiago 65",
+    "categoria": "Seguridad",
+    "lat": -33.465386,
+    "lng": -70.641184,
+    "nivel": 3,
+    "peso": 1.66,
+    "radio": 315
+  },
+  {
+    "id": 66,
+    "nombre": "Zona Seguridad Estación Central 66",
+    "categoria": "Seguridad",
+    "lat": -33.475664,
+    "lng": -70.692617,
+    "nivel": 5,
+    "peso": 1.83,
+    "radio": 403
+  },
+  {
+    "id": 67,
+    "nombre": "Zona Seguridad Huechuraba 67",
+    "categoria": "Seguridad",
+    "lat": -33.340631,
+    "lng": -70.685374,
+    "nivel": 5,
+    "peso": 1.35,
+    "radio": 202
+  },
+  {
+    "id": 68,
+    "nombre": "Zona Seguridad Lo Prado 68",
+    "categoria": "Seguridad",
+    "lat": -33.459932,
+    "lng": -70.702977,
+    "nivel": 5,
+    "peso": 1.75,
+    "radio": 280
+  },
+  {
+    "id": 69,
+    "nombre": "Zona Seguridad Independencia 69",
+    "categoria": "Seguridad",
+    "lat": -33.412748,
+    "lng": -70.632045,
+    "nivel": 4,
+    "peso": 1.7,
+    "radio": 243
+  },
+  {
+    "id": 70,
+    "nombre": "Zona Seguridad Renca 70",
+    "categoria": "Seguridad",
+    "lat": -33.399715,
+    "lng": -70.723324,
+    "nivel": 4,
+    "peso": 1.52,
+    "radio": 331
+  },
+  {
+    "id": 71,
+    "nombre": "Zona Seguridad San Miguel 71",
+    "categoria": "Seguridad",
+    "lat": -33.504908,
+    "lng": -70.653182,
+    "nivel": 4,
+    "peso": 1.74,
+    "radio": 269
+  },
+  {
+    "id": 72,
+    "nombre": "Zona Seguridad Huechuraba 72",
+    "categoria": "Seguridad",
+    "lat": -33.357236,
+    "lng": -70.673757,
+    "nivel": 3,
+    "peso": 1.44,
+    "radio": 287
+  },
+  {
+    "id": 73,
+    "nombre": "Zona Seguridad Lo Prado 73",
+    "categoria": "Seguridad",
+    "lat": -33.42857,
+    "lng": -70.715734,
+    "nivel": 4,
+    "peso": 1.57,
+    "radio": 406
+  },
+  {
+    "id": 74,
+    "nombre": "Zona Seguridad La Florida 74",
+    "categoria": "Seguridad",
+    "lat": -33.539553,
+    "lng": -70.568251,
+    "nivel": 5,
+    "peso": 1.34,
+    "radio": 223
+  },
+  {
+    "id": 75,
+    "nombre": "Zona Seguridad Renca 75",
+    "categoria": "Seguridad",
+    "lat": -33.399382,
+    "lng": -70.724682,
+    "nivel": 4,
+    "peso": 1.27,
+    "radio": 300
+  },
+  {
+    "id": 76,
+    "nombre": "Zona Seguridad Renca 76",
+    "categoria": "Seguridad",
+    "lat": -33.411014,
+    "lng": -70.742035,
+    "nivel": 3,
+    "peso": 1.24,
+    "radio": 423
+  },
+  {
+    "id": 77,
+    "nombre": "Zona Seguridad Huechuraba 77",
+    "categoria": "Seguridad",
+    "lat": -33.34601,
+    "lng": -70.687087,
+    "nivel": 4,
+    "peso": 1.91,
+    "radio": 279
+  },
+  {
+    "id": 78,
+    "nombre": "Zona Seguridad Cerro Navia 78",
+    "categoria": "Seguridad",
+    "lat": -33.420225,
+    "lng": -70.750241,
+    "nivel": 5,
+    "peso": 1.75,
+    "radio": 234
+  },
+  {
+    "id": 79,
+    "nombre": "Zona Seguridad Lo Prado 79",
+    "categoria": "Seguridad",
+    "lat": -33.451246,
+    "lng": -70.707836,
+    "nivel": 5,
+    "peso": 1.61,
+    "radio": 205
+  },
+  {
+    "id": 80,
+    "nombre": "Zona Seguridad San Miguel 80",
+    "categoria": "Seguridad",
+    "lat": -33.500032,
+    "lng": -70.636067,
+    "nivel": 4,
+    "peso": 1.31,
+    "radio": 417
+  },
+  {
+    "id": 81,
+    "nombre": "Zona Seguridad Macul 81",
+    "categoria": "Seguridad",
+    "lat": -33.470484,
+    "lng": -70.596182,
+    "nivel": 4,
+    "peso": 1.69,
+    "radio": 438
+  },
+  {
+    "id": 82,
+    "nombre": "Zona Seguridad Lo Prado 82",
+    "categoria": "Seguridad",
+    "lat": -33.426777,
+    "lng": -70.718085,
+    "nivel": 3,
+    "peso": 1.79,
+    "radio": 423
+  },
+  {
+    "id": 83,
+    "nombre": "Zona Seguridad Pudahuel 83",
+    "categoria": "Seguridad",
+    "lat": -33.439632,
+    "lng": -70.80011,
+    "nivel": 5,
+    "peso": 1.42,
+    "radio": 446
+  },
+  {
+    "id": 84,
+    "nombre": "Zona Seguridad Ñuñoa 84",
+    "categoria": "Seguridad",
+    "lat": -33.45493,
+    "lng": -70.609016,
+    "nivel": 3,
+    "peso": 1.77,
+    "radio": 300
+  },
+  {
+    "id": 85,
+    "nombre": "Zona Seguridad Quilicura 85",
+    "categoria": "Seguridad",
+    "lat": -33.366566,
+    "lng": -70.714279,
+    "nivel": 3,
+    "peso": 1.31,
+    "radio": 298
+  },
+  {
+    "id": 86,
+    "nombre": "Zona Seguridad Cerro Navia 86",
+    "categoria": "Seguridad",
+    "lat": -33.412242,
+    "lng": -70.731743,
+    "nivel": 3,
+    "peso": 1.53,
+    "radio": 349
+  },
+  {
+    "id": 87,
+    "nombre": "Zona Seguridad San Miguel 87",
+    "categoria": "Seguridad",
+    "lat": -33.491363,
+    "lng": -70.667509,
+    "nivel": 4,
+    "peso": 1.51,
+    "radio": 190
+  },
+  {
+    "id": 88,
+    "nombre": "Zona Seguridad La Pintana 88",
+    "categoria": "Seguridad",
+    "lat": -33.584785,
+    "lng": -70.649764,
+    "nivel": 4,
+    "peso": 1.44,
+    "radio": 379
+  },
+  {
+    "id": 89,
+    "nombre": "Zona Seguridad Lo Prado 89",
+    "categoria": "Seguridad",
+    "lat": -33.438471,
+    "lng": -70.710615,
+    "nivel": 5,
+    "peso": 1.92,
+    "radio": 429
+  },
+  {
+    "id": 90,
+    "nombre": "Zona Seguridad San Bernardo 90",
+    "categoria": "Seguridad",
+    "lat": -33.599083,
+    "lng": -70.700574,
+    "nivel": 4,
+    "peso": 1.47,
+    "radio": 387
+  },
+  {
+    "id": 91,
+    "nombre": "Zona Seguridad Puente Alto 91",
+    "categoria": "Seguridad",
+    "lat": -33.59638,
+    "lng": -70.563218,
+    "nivel": 5,
+    "peso": 1.63,
+    "radio": 381
+  },
+  {
+    "id": 92,
+    "nombre": "Zona Seguridad La Pintana 92",
+    "categoria": "Seguridad",
+    "lat": -33.577424,
+    "lng": -70.648916,
+    "nivel": 5,
+    "peso": 1.54,
+    "radio": 416
+  },
+  {
+    "id": 93,
+    "nombre": "Zona Seguridad Puente Alto 93",
+    "categoria": "Seguridad",
+    "lat": -33.627989,
+    "lng": -70.584836,
+    "nivel": 3,
+    "peso": 1.56,
+    "radio": 352
+  },
+  {
+    "id": 94,
+    "nombre": "Zona Seguridad Cerro Navia 94",
+    "categoria": "Seguridad",
+    "lat": -33.42887,
+    "lng": -70.721952,
+    "nivel": 4,
+    "peso": 1.4,
+    "radio": 221
+  },
+  {
+    "id": 95,
+    "nombre": "Zona Seguridad Ñuñoa 95",
+    "categoria": "Seguridad",
+    "lat": -33.479225,
+    "lng": -70.598423,
+    "nivel": 4,
+    "peso": 1.38,
+    "radio": 215
+  },
+  {
+    "id": 96,
+    "nombre": "Congestión Estación Central 96",
+    "categoria": "Congestion",
+    "lat": -33.449831,
+    "lng": -70.672016,
+    "nivel": 2,
+    "peso": 1.3,
+    "radio": 568
+  },
+  {
+    "id": 97,
+    "nombre": "Congestión Las Condes 97",
+    "categoria": "Congestion",
+    "lat": -33.420458,
+    "lng": -70.561058,
+    "nivel": 2,
+    "peso": 1.14,
+    "radio": 361
+  },
+  {
+    "id": 98,
+    "nombre": "Congestión Pudahuel 98",
+    "categoria": "Congestion",
+    "lat": -33.422021,
+    "lng": -70.779324,
+    "nivel": 2,
+    "peso": 1.16,
+    "radio": 308
+  },
+  {
+    "id": 99,
+    "nombre": "Congestión Puente Alto 99",
+    "categoria": "Congestion",
+    "lat": -33.591411,
+    "lng": -70.595676,
+    "nivel": 2,
+    "peso": 1.36,
+    "radio": 544
+  },
+  {
+    "id": 100,
+    "nombre": "Congestión Cerro Navia 100",
+    "categoria": "Congestion",
+    "lat": -33.424134,
+    "lng": -70.731399,
+    "nivel": 2,
+    "peso": 1.16,
+    "radio": 571
+  },
+  {
+    "id": 101,
+    "nombre": "Congestión San Bernardo 101",
+    "categoria": "Congestion",
+    "lat": -33.605924,
+    "lng": -70.689101,
+    "nivel": 4,
+    "peso": 1.16,
+    "radio": 311
+  },
+  {
+    "id": 102,
+    "nombre": "Congestión La Pintana 102",
+    "categoria": "Congestion",
+    "lat": -33.568695,
+    "lng": -70.636112,
+    "nivel": 3,
+    "peso": 1.2,
+    "radio": 285
+  },
+  {
+    "id": 103,
+    "nombre": "Congestión Macul 103",
+    "categoria": "Congestion",
+    "lat": -33.484098,
+    "lng": -70.619494,
+    "nivel": 3,
+    "peso": 1.29,
+    "radio": 304
+  },
+  {
+    "id": 104,
+    "nombre": "Congestión Lo Prado 104",
+    "categoria": "Congestion",
+    "lat": -33.421568,
+    "lng": -70.714577,
+    "nivel": 3,
+    "peso": 1.22,
+    "radio": 472
+  },
+  {
+    "id": 105,
+    "nombre": "Congestión Puente Alto 105",
+    "categoria": "Congestion",
+    "lat": -33.600648,
+    "lng": -70.561381,
+    "nivel": 3,
+    "peso": 1.17,
+    "radio": 525
+  },
+  {
+    "id": 106,
+    "nombre": "Congestión Ñuñoa 106",
+    "categoria": "Congestion",
+    "lat": -33.461405,
+    "lng": -70.586971,
+    "nivel": 4,
+    "peso": 0.96,
+    "radio": 375
+  },
+  {
+    "id": 107,
+    "nombre": "Congestión Maipú 107",
+    "categoria": "Congestion",
+    "lat": -33.518843,
+    "lng": -70.761968,
+    "nivel": 3,
+    "peso": 1.14,
+    "radio": 592
+  },
+  {
+    "id": 108,
+    "nombre": "Congestión Cerro Navia 108",
+    "categoria": "Congestion",
+    "lat": -33.426544,
+    "lng": -70.740228,
+    "nivel": 3,
+    "peso": 0.91,
+    "radio": 358
+  },
+  {
+    "id": 109,
+    "nombre": "Congestión Independencia 109",
+    "categoria": "Congestion",
+    "lat": -33.398087,
+    "lng": -70.656386,
+    "nivel": 4,
+    "peso": 1.22,
+    "radio": 391
+  },
+  {
+    "id": 110,
+    "nombre": "Congestión San Miguel 110",
+    "categoria": "Congestion",
+    "lat": -33.509594,
+    "lng": -70.632077,
+    "nivel": 2,
+    "peso": 0.94,
+    "radio": 458
+  },
+  {
+    "id": 111,
+    "nombre": "Congestión Ñuñoa 111",
+    "categoria": "Congestion",
+    "lat": -33.457793,
+    "lng": -70.610387,
+    "nivel": 3,
+    "peso": 1.19,
+    "radio": 501
+  },
+  {
+    "id": 112,
+    "nombre": "Congestión Pudahuel 112",
+    "categoria": "Congestion",
+    "lat": -33.418283,
+    "lng": -70.806278,
+    "nivel": 2,
+    "peso": 1.04,
+    "radio": 374
+  },
+  {
+    "id": 113,
+    "nombre": "Congestión Renca 113",
+    "categoria": "Congestion",
+    "lat": -33.393442,
+    "lng": -70.735239,
+    "nivel": 4,
+    "peso": 1.12,
+    "radio": 467
+  },
+  {
+    "id": 114,
+    "nombre": "Congestión San Miguel 114",
+    "categoria": "Congestion",
+    "lat": -33.496768,
+    "lng": -70.641886,
+    "nivel": 3,
+    "peso": 0.98,
+    "radio": 368
+  },
+  {
+    "id": 115,
+    "nombre": "Congestión Providencia 115",
+    "categoria": "Congestion",
+    "lat": -33.421149,
+    "lng": -70.617378,
+    "nivel": 4,
+    "peso": 1.12,
+    "radio": 344
+  },
+  {
+    "id": 116,
+    "nombre": "Accidente La Florida 116",
+    "categoria": "Accidente",
+    "lat": -33.551345,
+    "lng": -70.580632,
+    "nivel": 5,
+    "peso": 1.25,
+    "radio": 284
+  },
+  {
+    "id": 117,
+    "nombre": "Accidente Huechuraba 117",
+    "categoria": "Accidente",
+    "lat": -33.36868,
+    "lng": -70.685979,
+    "nivel": 3,
+    "peso": 1.08,
+    "radio": 242
+  },
+  {
+    "id": 118,
+    "nombre": "Accidente Puente Alto 118",
+    "categoria": "Accidente",
+    "lat": -33.617909,
+    "lng": -70.571679,
+    "nivel": 3,
+    "peso": 1.06,
+    "radio": 163
+  },
+  {
+    "id": 119,
+    "nombre": "Accidente San Miguel 119",
+    "categoria": "Accidente",
+    "lat": -33.498315,
+    "lng": -70.632236,
+    "nivel": 5,
+    "peso": 1.42,
+    "radio": 275
+  },
+  {
+    "id": 120,
+    "nombre": "Accidente Providencia 120",
+    "categoria": "Accidente",
+    "lat": -33.415091,
+    "lng": -70.607037,
+    "nivel": 4,
+    "peso": 1.19,
+    "radio": 237
+  },
+  {
+    "id": 121,
+    "nombre": "Accidente Puente Alto 121",
+    "categoria": "Accidente",
+    "lat": -33.59138,
+    "lng": -70.589901,
+    "nivel": 4,
+    "peso": 0.97,
+    "radio": 166
+  },
+  {
+    "id": 122,
+    "nombre": "Accidente Cerro Navia 122",
+    "categoria": "Accidente",
+    "lat": -33.42033,
+    "lng": -70.736919,
+    "nivel": 5,
+    "peso": 0.93,
+    "radio": 188
+  },
+  {
+    "id": 123,
+    "nombre": "Accidente La Pintana 123",
+    "categoria": "Accidente",
+    "lat": -33.562035,
+    "lng": -70.646593,
+    "nivel": 3,
+    "peso": 0.97,
+    "radio": 256
+  },
+  {
+    "id": 124,
+    "nombre": "Accidente Huechuraba 124",
+    "categoria": "Accidente",
+    "lat": -33.356155,
+    "lng": -70.665263,
+    "nivel": 5,
+    "peso": 1.13,
+    "radio": 263
+  },
+  {
+    "id": 125,
+    "nombre": "Accidente Renca 125",
+    "categoria": "Accidente",
+    "lat": -33.385593,
+    "lng": -70.710399,
+    "nivel": 4,
+    "peso": 1.24,
+    "radio": 165
+  },
+  {
+    "id": 126,
+    "nombre": "Accidente Huechuraba 126",
+    "categoria": "Accidente",
+    "lat": -33.341596,
+    "lng": -70.686031,
+    "nivel": 3,
+    "peso": 1.28,
+    "radio": 217
+  },
+  {
+    "id": 127,
+    "nombre": "Accidente Maipú 127",
+    "categoria": "Accidente",
+    "lat": -33.523718,
+    "lng": -70.773047,
+    "nivel": 3,
+    "peso": 0.99,
+    "radio": 254
+  },
+  {
+    "id": 128,
+    "nombre": "Accidente Pudahuel 128",
+    "categoria": "Accidente",
+    "lat": -33.422425,
+    "lng": -70.791204,
+    "nivel": 3,
+    "peso": 1.04,
+    "radio": 222
+  },
+  {
+    "id": 129,
+    "nombre": "Accidente Pudahuel 129",
+    "categoria": "Accidente",
+    "lat": -33.447153,
+    "lng": -70.800663,
+    "nivel": 4,
+    "peso": 1.37,
+    "radio": 300
+  },
+  {
+    "id": 130,
+    "nombre": "Accidente La Florida 130",
+    "categoria": "Accidente",
+    "lat": -33.542994,
+    "lng": -70.578218,
+    "nivel": 5,
+    "peso": 0.99,
+    "radio": 218
+  },
+  {
+    "id": 131,
+    "nombre": "Evento Las Condes 131",
+    "categoria": "Evento",
+    "lat": -33.427144,
+    "lng": -70.573363,
+    "nivel": 3,
+    "peso": 0.96,
+    "radio": 491
+  },
+  {
+    "id": 132,
+    "nombre": "Evento Renca 132",
+    "categoria": "Evento",
+    "lat": -33.402434,
+    "lng": -70.731252,
+    "nivel": 3,
+    "peso": 1.02,
+    "radio": 339
+  },
+  {
+    "id": 133,
+    "nombre": "Evento Macul 133",
+    "categoria": "Evento",
+    "lat": -33.488401,
+    "lng": -70.60249,
+    "nivel": 4,
+    "peso": 0.62,
+    "radio": 421
+  },
+  {
+    "id": 134,
+    "nombre": "Evento Recoleta 134",
+    "categoria": "Evento",
+    "lat": -33.395851,
+    "lng": -70.668965,
+    "nivel": 2,
+    "peso": 1.18,
+    "radio": 494
+  },
+  {
+    "id": 135,
+    "nombre": "Evento La Pintana 135",
+    "categoria": "Evento",
+    "lat": -33.561969,
+    "lng": -70.610017,
+    "nivel": 4,
+    "peso": 1.09,
+    "radio": 495
+  },
+  {
+    "id": 136,
+    "nombre": "Evento Estación Central 136",
+    "categoria": "Evento",
+    "lat": -33.449476,
+    "lng": -70.702992,
+    "nivel": 4,
+    "peso": 0.99,
+    "radio": 342
+  },
+  {
+    "id": 137,
+    "nombre": "Evento Puente Alto 137",
+    "categoria": "Evento",
+    "lat": -33.590122,
+    "lng": -70.582565,
+    "nivel": 3,
+    "peso": 1.18,
+    "radio": 440
+  },
+  {
+    "id": 138,
+    "nombre": "Evento Independencia 138",
+    "categoria": "Evento",
+    "lat": -33.413666,
+    "lng": -70.657158,
+    "nivel": 2,
+    "peso": 1.11,
+    "radio": 368
+  },
+  {
+    "id": 139,
+    "nombre": "Evento Lo Prado 139",
+    "categoria": "Evento",
+    "lat": -33.432253,
+    "lng": -70.728471,
+    "nivel": 3,
+    "peso": 1.09,
+    "radio": 481
+  },
+  {
+    "id": 140,
+    "nombre": "Evento Estación Central 140",
+    "categoria": "Evento",
+    "lat": -33.461807,
+    "lng": -70.697419,
+    "nivel": 3,
+    "peso": 0.67,
+    "radio": 406
+  },
+  {
+    "id": 141,
+    "nombre": "Obras Macul 141",
+    "categoria": "Obras",
+    "lat": -33.477003,
+    "lng": -70.619954,
+    "nivel": 4,
+    "peso": 0.98,
+    "radio": 163
+  },
+  {
+    "id": 142,
+    "nombre": "Obras La Florida 142",
+    "categoria": "Obras",
+    "lat": -33.539262,
+    "lng": -70.575095,
+    "nivel": 3,
+    "peso": 1.08,
+    "radio": 344
+  },
+  {
+    "id": 143,
+    "nombre": "Obras Estación Central 143",
+    "categoria": "Obras",
+    "lat": -33.471858,
+    "lng": -70.688031,
+    "nivel": 3,
+    "peso": 0.96,
+    "radio": 328
+  },
+  {
+    "id": 144,
+    "nombre": "Obras Ñuñoa 144",
+    "categoria": "Obras",
+    "lat": -33.475143,
+    "lng": -70.581074,
+    "nivel": 4,
+    "peso": 1.18,
+    "radio": 331
+  },
+  {
+    "id": 145,
+    "nombre": "Obras Puente Alto 145",
+    "categoria": "Obras",
+    "lat": -33.61757,
+    "lng": -70.599453,
+    "nivel": 3,
+    "peso": 0.76,
+    "radio": 365
+  },
+  {
+    "id": 146,
+    "nombre": "Obras Providencia 146",
+    "categoria": "Obras",
+    "lat": -33.431542,
+    "lng": -70.625301,
+    "nivel": 2,
+    "peso": 1.0,
+    "radio": 333
+  },
+  {
+    "id": 147,
+    "nombre": "Obras Renca 147",
+    "categoria": "Obras",
+    "lat": -33.399645,
+    "lng": -70.739063,
+    "nivel": 3,
+    "peso": 1.29,
+    "radio": 212
+  },
+  {
+    "id": 148,
+    "nombre": "Obras Pudahuel 148",
+    "categoria": "Obras",
+    "lat": -33.427949,
+    "lng": -70.794657,
+    "nivel": 4,
+    "peso": 1.0,
+    "radio": 375
+  },
+  {
+    "id": 149,
+    "nombre": "Obras Las Condes 149",
+    "categoria": "Obras",
+    "lat": -33.395439,
+    "lng": -70.56895,
+    "nivel": 3,
+    "peso": 0.9,
+    "radio": 351
+  },
+  {
+    "id": 150,
+    "nombre": "Obras Macul 150",
+    "categoria": "Obras",
+    "lat": -33.499313,
+    "lng": -70.619897,
+    "nivel": 4,
+    "peso": 0.88,
+    "radio": 300
+  }
+]

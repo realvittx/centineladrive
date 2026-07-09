@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Centinela Drive</title>
+
+    <link rel="stylesheet"
+          href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+    <link rel="stylesheet"
+    href="css/style.css"
+
+</head>
+
+<body>
+
+  <div id="header">
+
+    <div id="titulo">
+
+        🚗 CENTINELA DRIVE
+
+    </div>
+
+    <div id="subtitulo">
+
+        Sistema Inteligente de Optimización de Rutas Urbanas
+
+    </div>
+
+</div>
+
+    <div id="principal">
+
+    <div id="panelIzquierdo">
+    
+    <div class="panelTitulo">
+
+        🚗 Panel de Control
+
+</div>
+
+<div class="panelSeccion">
+
+📍 Navegación
+
+</div>
+
+<div id="contenedorDirecciones">
+
+    <div class="inputUbicacion">
+
+    <input
+        type="text"
+        id="txtOrigen"
+        placeholder="Dirección de origen">
+
+    <button
+        id="btnUbicacion"
+        class="btnUbicacionIcono"
+        title="Usar mi ubicación">
+
+        📍
+
+    </button>
+
+</div>
+
+<div
+    id="sugerenciasOrigen"
+    class="listaSugerencias">
+</div>
+
+<input
+    type="text"
+    id="txtDestino"
+    placeholder="Dirección de destino">
+
+<div
+    id="sugerenciasDestino"
+    class="listaSugerencias">
+</div>
+</div>
+
+    <div class="panelSeccion">
+
+        ⚙ Acciones
+
+    </div>
+
+    <div id="contenedorBotones">
+
+    <button id="btnBuscar">
+    🔍 Buscar
+    </button>
+
+    
+    <button id="btnRuta">
+    🧮 Calcular Ruta
+    </button>
+
+    <button id="btnReset">
+    ♻ Reiniciar
+    </button>
+
+</div>
+
+    <div class="panelSeccion">
+
+        📊 Resultados
+
+</div>
+
+    <div class="panelDecision">
+
+        <h3>🛡 Centro de Decisiones</h3>
+
+<div class="estadoSistema">
+
+Ruta recomendada:
+
+<b id="rutaRecomendada">
+
+Esperando cálculo...
+
+</b>
+
+</div>
+
+<div class="estadoSistema">
+
+Nivel de riesgo:
+
+<span id="nivelRiesgo" class="valorBueno">
+
+Sin evaluar
+
+</span>
+
+</div>
+
+
+</div>
+
+<div class="panelEstado">
+
+<h3>📡 Estado del Sistema</h3>
+
+<div class="estadoItem">
+
+Sistema operativo
+
+<span class="estadoOK">
+
+🟢 Activo
+
+</span>
+
+</div>
+
+<div class="estadoItem">
+
+GPS disponible
+
+<span class="estadoOK">
+
+🟢 Activo
+
+</span>
+
+</div>
+
+<div class="estadoItem">
+
+Zonas de riesgo
+
+<span class="estadoOK">
+
+🟢 Cargadas
+
+</span>
+
+</div>
+
+<div class="estadoItem">
+
+Motor Centinela
+
+<span class="estadoOK">
+
+🟢 Operativo
+
+</span>
+
+</div>
+
+</div>
+
+<div class="firmaCentinela">
+
+🛡 <b>CENTINELA DRIVE</b>
+
+<br>
+
+<i>
+
+Protegemos tu camino.
+
+Optimización inteligente de rutas.
+
+</i>
+
+</div>
+
+</div>
+
+    <div id="panelMapa">
+
+    <div id="map"></div>
+
+    <div id="dashboardInferior">
+
+    <div id="tarjetaPrincipal" class="cardResultado">
+
+        <h2 class="tituloRuta">
+
+        🛡 Ruta Centinela
+
+        </h2>
+
+        <div class="contenidoTarjeta">
+
+        Esperando cálculo de ruta...
+
+        </div>
+
+    </div>
+
+    <div id="tarjetaAlternativa" class="cardResultado">
+
+    <h2 class="tituloRuta">
+
+    🧭 Ruta Alternativa
+
+    </h2>
+
+    <div class="contenidoTarjeta">
+
+    Esperando cálculo de ruta...
+
+    </div>
+
+    </div>
+
+    <div id="tarjetaComparacion" class="cardResultado">
+
+    <h2 class="tituloRuta">
+
+    📊 Análisis Comparativo
+
+    </h2>
+
+    <div class="contenidoTarjeta">
+
+    Esperando cálculo de ruta...
+
+    </div>
+
+    </div>
+
+</div>
+
+</div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <script src="js/app.js"></script>
+
+
+</body>
+
+</html>
